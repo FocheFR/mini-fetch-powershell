@@ -19,4 +19,4 @@ Un clone ultra-léger et rapide de Neofetch écrit en pur PowerShell, sans dépe
 Clone le dépôt ou télécharge directement le fichier `fetch.ps1` dans un dossier local :
 
 ```powershell
-git clone [https://github.com/FocheFR/ps-fetch.git](https://github.com/FocheFR/ps-fetch.git) "$HOME\Documents\ps-fetch"
+git clone https://github.com/FocheFR/mini-fetch-powershell.git "$HOME\Documents\mini-fetch-powershell"
